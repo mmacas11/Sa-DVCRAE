@@ -8,17 +8,17 @@ Industrial Cyber-Physical Systems (ICPSs) play a crucial role in modern industri
 - [License](#license)
 
 ## In Details
-- DoVaeSupplementary: this file contains the class Sampling, class VAE and class EarlyStoppingAtMinLoss for implementing a VAE model.
+- DoVaeSupplementary: this file contains the class Sampling, class VAE, and class EarlyStoppingAtMinLoss for implementing a VAE model.
 - DoSupplementaryTrain.py: diferentes métodos para guardar información cuando se ejecuta el entrenamiento del modelo.
-- DoSplitData.py: data prepatation and split data.
-- CBAM_attention3D.py: this file contains the class channel attention, class spatial attention for implementation of 3D-CBAM.
+- DoSplitData.py: data preparation and split data.
+- CBAM_attention3D.py: this file contains the class channel attention and class spatial attention for implementation of 3D-CBAM.
 - 3Da-CVAE.ipynb: model 3-dimensional Attention-Based Convolutional Variational Autoencoder.
 
 ## Contributing
 Any kind of enhancement or contribution is welcomed.
 
 ## Acknowledgments
-The authors would like to thank iTrust, Center for Research in Cyber Security, Singapore University of Technology and Design for providing the SWaT dataset.
+The authors thank iTrust, the Center for Research in Cyber Security, Singapore University of Technology and Design, for providing the SWaT dataset.
 
 
 ## License
