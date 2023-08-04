@@ -9,7 +9,7 @@ Industrial Cyber-Physical Systems (ICPSs) play a crucial role in modern industri
 
 ## In Details
 - DoVaeSupplementary: this file contains the class Sampling, class VAE, and class EarlyStoppingAtMinLoss for implementing a VAE model.
-- DoSupplementaryTrain.py: diferentes métodos para guardar información cuando se ejecuta el entrenamiento del modelo.
+- DoSupplementaryTrain.py: different methods to save information when model training is executed.
 - DoSplitData.py: data preparation and split data.
 - SaConvLSTM.py: this file contains a variant of the LSTM network and captures spatial features in multi-dimensional data by the convolution process. To further enhance the representation power of the model and improve reconstruction accuracy, we incorporate the self-attention memory (SaM) module into the ConvLSTM layers.
 - DoModels_ML.py: it contains the self-attention-enabled Deep Variational Convolutional Recurrent Autoencoder (Sa-DVCRAE) model.
