@@ -20,6 +20,7 @@ Any kind of enhancement or contribution is welcomed.
 
 ## Acknowledgments
 - The authors thank iTrust, the Center for Research in Cyber Security, Singapore University of Technology and Design, for providing the SWaT dataset.
+  
 - Lin, Z., Li, M., Zheng, Z., Cheng, Y., & Yuan, C. (2020, April). Self-attention convlstm for spatiotemporal prediction. In Proceedings of the AAAI conference on artificial intelligence (Vol. 34, No. 07, pp. 11531-11538).
 
 ## License
